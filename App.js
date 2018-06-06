@@ -34,7 +34,7 @@ export default class App extends Component<Props> {
       //     {instructions}
       //   </Text>
       // </View>
-      <Text>Hello world</Text>
+      <Text>Hello world  branch 2 </Text>
     );
   }
 }
